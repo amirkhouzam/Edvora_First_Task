@@ -1,0 +1,6 @@
+framework module Pods_Edvora_First_Round {
+  umbrella header "Pods-Edvora First Round-umbrella.h"
+
+  export *
+  module * { export * }
+}
